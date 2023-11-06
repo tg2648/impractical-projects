@@ -1,1 +1,1 @@
-# ASCII Art Generator
+# Impractical Projects
